@@ -9,3 +9,4 @@ const MyComponent = () => {
 };
 
 export default MyComponent;
+import React from 'react';
